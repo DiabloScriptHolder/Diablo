@@ -1,5 +1,0 @@
-local a = game.Players.LocalPlayer.Character.HumanoidRootPart
-a.CFrame = a.CFrame * CFrame.new(0,30,0)
-
-
-print('hi')
